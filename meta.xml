@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <id>battle_clock_mod</id>
+    <version>1.0.0</version>
+    <name>Battle Clock</name>
+    <description>Shows current time in battle</description>
+    <dependencies>
+        <game>1.27.1</game>
+    </dependencies>
+</root>
