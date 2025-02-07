@@ -7,7 +7,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/YourRepo/BattleClockMod)
 ![GitHub issues](https://img.shields.io/github/issues/YourRepo/BattleClockMod)
 
-## 📥 Установка (Windows)
+## 📥 Установка
 
 1. **Скачайте .wotmod файл** из [релизов](https://github.com/YourRepo/BattleClockMod/releases).
 2. **Переместите его** в папку `World_of_Tanks/mods/1.27.1/`.
